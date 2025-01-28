@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viiduc1
-- 💬 Contact: tacoo1011
+- 💬 Contact Discord: tacoo1011
 - 📚 Learning code....
 
 <!---
