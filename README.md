@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @viiduc1
+- 💬 Contact: tacoo1011
+- 📚 Learning code....
 
 <!---
 viiduc1/viiduc1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
